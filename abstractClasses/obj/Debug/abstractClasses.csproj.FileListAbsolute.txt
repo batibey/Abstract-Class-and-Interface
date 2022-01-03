@@ -1,0 +1,7 @@
+C:\Users\Batı\source\repos\abstractClasses\abstractClasses\bin\Debug\abstractClasses.exe.config
+C:\Users\Batı\source\repos\abstractClasses\abstractClasses\bin\Debug\abstractClasses.exe
+C:\Users\Batı\source\repos\abstractClasses\abstractClasses\bin\Debug\abstractClasses.pdb
+C:\Users\Batı\source\repos\abstractClasses\abstractClasses\obj\Debug\abstractClasses.csproj.AssemblyReference.cache
+C:\Users\Batı\source\repos\abstractClasses\abstractClasses\obj\Debug\abstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Batı\source\repos\abstractClasses\abstractClasses\obj\Debug\abstractClasses.exe
+C:\Users\Batı\source\repos\abstractClasses\abstractClasses\obj\Debug\abstractClasses.pdb
